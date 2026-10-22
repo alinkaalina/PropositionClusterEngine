@@ -1,0 +1,16 @@
+{
+  "entries": [
+    {
+      "id": "claim_01",
+      "statement": "Validator unbonding requires a strict 14-day cooldown period before withdrawal."
+    },
+    {
+      "id": "claim_02",
+      "statement": "Staked validator tokens remain locked for two weeks after initiating withdrawal."
+    },
+    {
+      "id": "claim_03",
+      "statement": "Governance proposals require a minimum 10 percent quorum of active stake."
+    }
+  ]
+}
